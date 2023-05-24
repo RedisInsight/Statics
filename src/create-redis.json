@@ -1,11 +1,11 @@
 {
   "cloud": {
-    "title": "Create a free and powerful Redis Cloud database.",
-    "description": "Including modern data models and data processing tools.",
+    "title": "Try Redis Stack on Cloud. Your ultimate Redis starting point.",
+    "description": "Includes native capabilities for JSON, and Query and Search.",
     "links": {
       "main": {
         "altText": "Try Redis Cloud.",
-        "url": "https://redis.com/try-free/?utm_source=redis&utm_medium=app&utm_campaign=redisinsight_offer_jan"
+        "url": "https://redis.com/redis-enterprise-cloud/overview/?utm_source=redisinsight&utm_medium=main&utm_campaign=main"
       },
       "redisearch": {
         "altText": "Try Redis Cloud.",
