@@ -26,22 +26,12 @@
     }
   },
   "source": {
-    "title": "Build from source",
+    "title": "Install on Windows",
     "description": "",
     "links": {
       "main": {
-        "altText": "Build from source",
-        "url": "https://developer.redis.com/create/from-source/?utm_source=redis&utm_medium=app&utm_campaign=redisinsight"
-      }
-    }
-  },
-  "docker": {
-    "title": "Docker",
-    "description": "",
-    "links": {
-      "main": {
-        "altText": "Docker",
-        "url": "https://developer.redis.com/create/docker/?utm_source=redis&utm_medium=app&utm_campaign=redisinsight"
+        "altText": "Install on Windows",
+        "url": "https://redis.io/docs/getting-started/install-stack/windows/?utm_source=redis&utm_medium=app&utm_campaign=redisinsight"
       }
     }
   },
@@ -51,7 +41,17 @@
     "links": {
       "main": {
         "altText": "Homebrew",
-        "url": "https://developer.redis.com/create/homebrew/?utm_source=redis&utm_medium=app&utm_campaign=redisinsight"
+        "url": "https://redis.io/docs/getting-started/install-stack/mac-os/?utm_source=redis&utm_medium=app&utm_campaign=redisinsight"
+      }
+    }
+  },
+  "docker": {
+    "title": "Docker",
+    "description": "",
+    "links": {
+      "main": {
+        "altText": "Docker",
+        "url": "https://redis.io/docs/getting-started/install-stack/docker/?utm_source=redis&utm_medium=app&utm_campaign=redisinsight"
       }
     }
   }
