@@ -25,13 +25,13 @@
       }
     }
   },
-  "source": {
-    "title": "Install on Windows",
+  "docker": {
+    "title": "Docker",
     "description": "",
     "links": {
       "main": {
-        "altText": "Install on Windows",
-        "url": "https://redis.io/docs/getting-started/install-stack/windows/?utm_source=redis&utm_medium=app&utm_campaign=redisinsight"
+        "altText": "Docker",
+        "url": "https://redis.io/docs/getting-started/install-stack/docker/?utm_source=redis&utm_medium=app&utm_campaign=redisinsight"
       }
     }
   },
@@ -45,13 +45,13 @@
       }
     }
   },
-  "docker": {
-    "title": "Docker",
+  "linux": {
+    "title": "Linux",
     "description": "",
     "links": {
       "main": {
-        "altText": "Docker",
-        "url": "https://redis.io/docs/getting-started/install-stack/docker/?utm_source=redis&utm_medium=app&utm_campaign=redisinsight"
+        "altText": "Linux",
+        "url": "https://redis.io/docs/getting-started/install-stack/linux/?utm_source=redis&utm_medium=app&utm_campaign=redisinsight"
       }
     }
   }
