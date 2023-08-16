@@ -9,7 +9,7 @@
       },
       "redisearch": {
         "altText": "Try Redis Cloud.",
-        "url": "https://redis.com/try-free/?utm_source=redis&utm_medium=app&utm_campaign=redisinsight_redisearch_offer_jan"
+        "url": "https://redis.com/try-free/?utm_source=redisinsight&utm_medium=app&utm_campaign=redisinsight_redisearch_offer_jan"
       }
     },
     "styles": {
@@ -31,7 +31,7 @@
     "links": {
       "main": {
         "altText": "Docker",
-        "url": "https://redis.io/docs/getting-started/install-stack/docker/?utm_source=redis&utm_medium=app&utm_campaign=redisinsight"
+        "url": "https://redis.io/docs/getting-started/install-stack/docker/?utm_source=redisinsight&utm_medium=main&utm_campaign=docker"
       }
     }
   },
@@ -41,7 +41,7 @@
     "links": {
       "main": {
         "altText": "Homebrew",
-        "url": "https://redis.io/docs/getting-started/install-stack/mac-os/?utm_source=redis&utm_medium=app&utm_campaign=redisinsight"
+        "url": "https://redis.io/docs/getting-started/install-stack/mac-os/?utm_source=redisinsight&utm_medium=main&utm_campaign=homebrew"
       }
     }
   },
@@ -51,7 +51,7 @@
     "links": {
       "main": {
         "altText": "Linux",
-        "url": "https://redis.io/docs/getting-started/install-stack/linux/?utm_source=redis&utm_medium=app&utm_campaign=redisinsight"
+        "url": "https://redis.io/docs/getting-started/install-stack/linux/?utm_source=redisinsight&utm_medium=main&utm_campaign=linux"
       }
     }
   }
