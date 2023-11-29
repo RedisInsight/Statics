@@ -31,7 +31,7 @@
     "links": {
       "main": {
         "altText": "Docker",
-        "url": "https://redis.io/docs/getting-started/install-stack/docker/?utm_source=redisinsight&utm_medium=main&utm_campaign=docker"
+        "url": "https://redis.io/docs/install/install-stack/docker/?utm_source=redisinsight&utm_medium=main&utm_campaign=docker"
       }
     }
   },
@@ -41,7 +41,7 @@
     "links": {
       "main": {
         "altText": "Homebrew",
-        "url": "https://redis.io/docs/getting-started/install-stack/mac-os/?utm_source=redisinsight&utm_medium=main&utm_campaign=homebrew"
+        "url": "https://redis.io/docs/install/install-stack/mac-os/?utm_source=redisinsight&utm_medium=main&utm_campaign=homebrew"
       }
     }
   },
@@ -51,7 +51,7 @@
     "links": {
       "main": {
         "altText": "Linux",
-        "url": "https://redis.io/docs/getting-started/install-stack/linux/?utm_source=redisinsight&utm_medium=main&utm_campaign=linux"
+        "url": "https://redis.io/docs/install/install-stack/linux/?utm_source=redisinsight&utm_medium=main&utm_campaign=linux"
       }
     }
   }
