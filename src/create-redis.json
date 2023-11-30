@@ -5,11 +5,11 @@
     "links": {
       "main": {
         "altText": "Try Redis Cloud.",
-        "url": "https://redis.com/redis-enterprise-cloud/overview/?utm_source=redisinsight&utm_medium=main&utm_campaign=main"
+        "url": "https://redis.com/try-free/?utm_source=redisinsight&utm_medium=main&utm_campaign=main"
       },
       "redisearch": {
         "altText": "Try Redis Cloud.",
-        "url": "https://redis.com/try-free/?utm_source=redisinsight&utm_medium=app&utm_campaign=redisinsight_redisearch_offer_jan"
+        "url": "https://redis.com/try-free/?utm_source=redisinsight&utm_medium=main&utm_campaign=main"
       }
     },
     "styles": {
