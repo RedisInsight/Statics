@@ -5,14 +5,14 @@
     "icon": "search"
   },
   {
-    "title": "Vector Similarity Search",
-    "tutorialId": "sq-vector",
-    "icon": "vector-similarity-search"
-  },
-  {
     "title": "JSON",
     "tutorialId": "ds-json-intro",
     "icon": "json"
+  },
+  {
+    "title": "Triggers and functions",
+    "tutorialId": "tf-intro",
+    "icon": "triggers-and-functions"
   },
   {
     "title": "Time Series",
@@ -20,7 +20,7 @@
     "icon": "time-series"
   },
   {
-    "title": "Probabilistic Data Structures",
+    "title": "Probabilistic",
     "tutorialId": "ds-prob-intro",
     "icon": "probabilistic-data-structures"
   }
