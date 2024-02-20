@@ -1,7 +1,7 @@
 {
   "cloud": {
     "title": "Try Redis Cloud: your ultimate Redis starting point",
-    "description": "Includes native support for JSON, Query and Search, and more",
+    "description": "Includes native support for JSON, Search and Query, and more",
     "links": {
       "main": {
         "altText": "Try Redis Cloud.",
