@@ -10,7 +10,7 @@
       {
         "type": "code-link",
         "value": {
-          "href": "https://redis.io/commands/script-flush/",
+          "href": "https://redis.io/docs/latest/commands/script-flush/",
           "name": "SCRIPT FLUSH"
         }
       },
@@ -29,7 +29,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/docs/interact/programmability/",
+          "href": "https://redis.io/docs/latest/develop/interact/programmability/",
           "name": "documentation"
         }
       },
@@ -59,7 +59,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/docs/management/optimization/memory-optimization/",
+          "href": "https://redis.io/docs/latest/operate/oss_and_stack/management/optimization/memory-optimization/",
           "name": "documentation"
         }
       },
@@ -119,7 +119,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.com/try-free/",
+          "href": "https://redis.io/cloud/",
           "name": "Redis Cloud"
         }
       },
@@ -174,7 +174,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/docs/management/optimization/memory-optimization/",
+          "href": "https://redis.io/docs/latest/operate/oss_and_stack/management/optimization/memory-optimization/",
           "name": "documentation"
         }
       },
@@ -220,7 +220,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/docs/management/optimization/memory-optimization/",
+          "href": "https://redis.io/docs/latest/operate/oss_and_stack/management/optimization/memory-optimization/",
           "name": "documentation"
         }
       },
@@ -286,7 +286,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/docs/management/optimization/memory-optimization/",
+          "href": "https://redis.io/docs/latest/operate/oss_and_stack/management/optimization/memory-optimization/",
           "name": "documentation"
         }
       },
@@ -309,7 +309,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://docs.redis.com/latest/ri/memory-optimizations/",
+          "href": "https://redis.io/docs/latest/operate/oss_and_stack/management/optimization/memory-optimization/",
           "name": "Read more"
         }
       }
@@ -367,7 +367,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/docs/management/optimization/memory-optimization/",
+          "href": "https://redis.io/docs/latest/operate/oss_and_stack/management/optimization/memory-optimization/",
           "name": "documentation"
         }
       },
@@ -390,7 +390,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/docs/interact/search-and-query/",
+          "href": "https://redis.io/docs/latest/develop/interact/search-and-query/",
           "name": "query and search capabilities"
         }
       },
@@ -401,7 +401,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/docs/about/about-stack/",
+          "href": "https://redis.io/docs/latest/operate/oss_and_stack/install/install-stack/",
           "name": "Redis Stack"
         }
       },
@@ -412,7 +412,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.com/redis-enterprise-cloud/overview/",
+          "href": "https://redis.io/cloud/",
           "name": "Redis Cloud"
         }
       },
@@ -423,7 +423,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.com/redis-enterprise-software/overview/",
+          "href": "https://redis.io/enterprise/",
           "name": "Redis Enterprise Software"
         }
       },
@@ -501,7 +501,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/docs/management/optimization/memory-optimization/",
+          "href": "https://redis.io/docs/latest/operate/oss_and_stack/management/optimization/memory-optimization/",
           "name": "documentation"
         }
       },
@@ -545,7 +545,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/docs/about/about-stack/",
+          "href": "https://redis.io/docs/latest/operate/oss_and_stack/install/install-stack/",
           "name": "Redis Stack"
         }
       },
@@ -556,7 +556,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.com/redis-enterprise-cloud/overview/",
+          "href": "https://redis.io/cloud/",
           "name": "Redis Cloud"
         }
       },
@@ -567,7 +567,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.com/redis-enterprise-software/overview/",
+          "href": "https://redis.io/enterprise/",
           "name": "Redis Enterprise Software"
         }
       },
@@ -605,7 +605,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/resources/clients/",
+          "href": "https://redis.io/docs/latest/develop/connect/clients/",
           "name": "Redis client’s"
         }
       },
@@ -627,7 +627,7 @@
       {
         "type": "code-link",
         "value": {
-          "href": "https://redis.io/commands/auth/",
+          "href": "https://redis.io/docs/latest/commands/auth/",
           "name": "AUTH"
         }
       },
@@ -646,7 +646,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/docs/management/security/",
+          "href": "https://redis.io/docs/latest/operate/oss_and_stack/management/security",
           "name": "documentation"
         }
       },
@@ -671,7 +671,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/docs/data-types/timeseries/",
+          "href": "https://redis.io/timeseries/",
           "name": "time series capabilities"
         }
       },
@@ -706,7 +706,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/docs/about/about-stack/",
+          "href": "https://redis.io/docs/latest/operate/oss_and_stack/install/install-stack/",
           "name": "Redis Stack"
         }
       },
@@ -717,7 +717,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.com/redis-enterprise-cloud/overview/",
+          "href": "https://redis.io/cloud/",
           "name": "Redis Cloud"
         }
       },
@@ -728,7 +728,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.com/redis-enterprise-software/overview/",
+          "href": "https://redis.io/enterprise/",
           "name": "Redis Enterprise Software"
         }
       },
@@ -764,7 +764,7 @@
             {
               "type": "link",
               "value": {
-                "href": "https://redis.io/docs/management/security/acl/",
+                "href": "https://redis.io/docs/latest/operate/oss_and_stack/management/security/acl/",
                 "name": "access control lists (ACLs)"
               }
             },
@@ -777,7 +777,7 @@
             {
               "type": "link",
               "value": {
-                "href": "https://redis.io/docs/manual/client-side-caching/",
+                "href": "https://redis.io/docs/latest/develop/use/client-side-caching/",
                 "name": "client-side caching"
               }
             },
@@ -807,7 +807,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.com/try-free/",
+          "href": "https://redis.io/cloud/",
           "name": "Redis Cloud"
         }
       },
@@ -818,7 +818,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/docs/interact/search-and-query/",
+          "href": "https://redis.io/docs/latest/develop/interact/search-and-query/",
           "name": "query and search"
         }
       },
@@ -851,7 +851,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/docs/data-types/timeseries/",
+          "href": "https://redis.io/timeseries/",
           "name": "Time Series"
         }
       },
@@ -872,7 +872,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/docs/interact/search-and-query/",
+          "href": "https://redis.io/docs/latest/develop/interact/search-and-query/",
           "name": "RediSearch"
         }
       },
@@ -883,7 +883,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/commands/?name=Ft",
+          "href": "https://redis.io/docs/latest/commands/?name=Ft",
           "name": "powerful API options"
         }
       },
@@ -902,7 +902,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.com/try-free/",
+          "href": "https://redis.io/cloud/",
           "name": "free Redis Stack database"
         }
       },
@@ -965,7 +965,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/docs/interact/search-and-query/",
+          "href": "https://redis.io/docs/latest/develop/interact/search-and-query/",
           "name": "query and search capabilities"
         }
       },
@@ -984,7 +984,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/docs/about/about-stack/",
+          "href": "https://redis.io/docs/latest/operate/oss_and_stack/install/install-stack/",
           "name": "Redis Stack"
         }
       },
@@ -995,7 +995,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.com/redis-enterprise-cloud/overview/",
+          "href": "https://redis.io/cloud/",
           "name": "Redis Cloud"
         }
       },
@@ -1006,7 +1006,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.com/redis-enterprise-software/overview/",
+          "href": "https://redis.io/enterprise/",
           "name": "Redis Enterprise Software"
         }
       },
@@ -1017,7 +1017,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://docs.redis.com/latest/stack/search/search-active-active/",
+          "href": "http://redis.io/docs/latest/operate/oss_and_stack/search/search-active-active",
           "name": "Active-Active setup"
         }
       },
@@ -1049,7 +1049,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/docs/interact/search-and-query/",
+          "href": "https://redis.io/docs/latest/develop/interact/search-and-query/",
           "name": "query and search capabilities"
         }
       },
@@ -1076,7 +1076,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/docs/about/about-stack/",
+          "href": "https://redis.io/docs/latest/operate/oss_and_stack/install/install-stack/",
           "name": "Redis Stack"
         }
       },
@@ -1087,7 +1087,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.com/redis-enterprise-cloud/overview/",
+          "href": "https://redis.io/cloud/",
           "name": "Redis Cloud"
         }
       },
@@ -1098,7 +1098,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.com/redis-enterprise-software/overview/",
+          "href": "https://redis.io/enterprise/",
           "name": "Redis Enterprise Software"
         }
       },
@@ -1109,7 +1109,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://docs.redis.com/latest/stack/search/search-active-active/",
+          "href": "http://redis.io/docs/latest/operate/oss_and_stack/search/search-active-active/",
           "name": "Active-Active"
         }
       },
@@ -1162,7 +1162,7 @@
             {
               "type": "link",
               "value": {
-                "href": "https://redis.io/docs/data-types/json/path/",
+                "href": "https://redis.io/docs/latest/develop/data-types/json/path/",
                 "name": "JSONPath"
               }
             },
@@ -1191,7 +1191,7 @@
             {
               "type": "link",
               "value": {
-                "href": "https://redis.io/docs/interact/search-and-query/",
+                "href": "https://redis.io/docs/latest/develop/interact/search-and-query/",
                 "name": "query and search capabilities"
               }
             }
@@ -1205,7 +1205,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/docs/about/about-stack/",
+          "href": "https://redis.io/docs/latest/operate/oss_and_stack/install/install-stack/",
           "name": "Redis Stack"
         }
       },
@@ -1216,7 +1216,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.com/redis-enterprise-cloud/overview/",
+          "href": "https://redis.io/cloud/",
           "name": "Redis Cloud"
         }
       },
@@ -1227,7 +1227,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.com/redis-enterprise-software/overview/",
+          "href": "https://redis.io/enterprise/",
           "name": "Redis Enterprise Software"
         }
       },
@@ -1265,7 +1265,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/docs/about/about-stack/",
+          "href": "https://redis.io/docs/latest/operate/oss_and_stack/install/install-stack/",
           "name": "Redis Stack"
         }
       },
@@ -1287,7 +1287,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/docs/interact/search-and-query/",
+          "href": "https://redis.io/docs/latest/develop/interact/search-and-query/",
           "name": "query and search"
         }
       },
@@ -1298,7 +1298,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/docs/data-types/timeseries/",
+          "href": "https://redis.io/timeseries/",
           "name": "Time Series"
         }
       },
@@ -1341,7 +1341,7 @@
             {
               "type": "link",
               "value": {
-                "href": "https://redis.io/docs/interact/search-and-query/search/aggregations/",
+                "href": "https://redis.io/docs/latest/develop/interact/search-and-query/advanced-concepts/aggregations/#apply-expressions/",
                 "name": "Apply Functions"
               }
             },
@@ -1359,7 +1359,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/docs/interact/search-and-query/",
+          "href": "https://redis.io/docs/latest/develop/interact/search-and-query/",
           "name": "query and search"
         }
       },
@@ -1386,7 +1386,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/docs/about/about-stack/",
+          "href": "https://redis.io/docs/latest/operate/oss_and_stack/install/install-stack/",
           "name": "Redis Stack"
         }
       },
@@ -1397,7 +1397,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.com/redis-enterprise-cloud/overview/",
+          "href": "https://redis.io/cloud/",
           "name": "Redis Cloud"
         }
       },
@@ -1408,7 +1408,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.com/redis-enterprise-software/overview/",
+          "href": "https://redis.io/enterprise/",
           "name": "Redis Enterprise Software"
         }
       },
@@ -1419,7 +1419,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://docs.redis.com/latest/stack/search/search-active-active/",
+          "href": "http://redis.io/docs/latest/operate/oss_and_stack/search/search-active-active/",
           "name": "Active-Active setup"
         }
       },
@@ -1466,7 +1466,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/docs/about/about-stack/",
+          "href": "https://redis.io/docs/latest/operate/oss_and_stack/install/install-stack/",
           "name": "Redis Stack"
         }
       },
@@ -1477,7 +1477,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.com/redis-enterprise-cloud/overview/",
+          "href": "https://redis.io/cloud/",
           "name": "Redis Cloud"
         }
       },
@@ -1488,7 +1488,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.com/redis-enterprise-software/overview/",
+          "href": "https://redis.io/enterprise/",
           "name": "Redis Enterprise Software"
         }
       },
@@ -1535,7 +1535,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/docs/about/about-stack/",
+          "href": "https://redis.io/docs/latest/operate/oss_and_stack/install/install-stack/",
           "name": "Redis Stack"
         }
       },
@@ -1546,7 +1546,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.com/redis-enterprise-cloud/overview/",
+          "href": "https://redis.io/cloud/",
           "name": "Redis Cloud"
         }
       },
@@ -1557,7 +1557,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.com/redis-enterprise-software/overview/",
+          "href": "https://redis.io/enterprise/",
           "name": "Redis Enterprise Software"
         }
       },
@@ -1612,7 +1612,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/docs/about/about-stack/",
+          "href": "https://redis.io/docs/latest/operate/oss_and_stack/install/install-stack/",
           "name": "Redis Stack"
         }
       },
@@ -1623,7 +1623,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.com/redis-enterprise-cloud/overview/",
+          "href": "https://redis.io/cloud/",
           "name": "Redis Cloud"
         }
       },
@@ -1634,7 +1634,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.com/redis-enterprise-software/overview/",
+          "href": "https://redis.io/enterprise/",
           "name": "Redis Enterprise Software"
         }
       },
