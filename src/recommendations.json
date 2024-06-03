@@ -1652,5 +1652,45 @@
       }
     ],
     "badges": ["code_changes"]
+  },
+  "tryRDI": {
+    "id": "tryRDI",
+    "title": "Sync Redis with live data from another database",
+    "content": [
+      {
+        "type": "paragraph",
+        "value": "Redis Data Integration (RDI) can ingest data from a source database into Redis cache using Change Data Capture (CDC) to follow data changes and a streaming pipeline to model the data in Redis to your application needs without coding."
+      },
+      {
+        "type": "spacer",
+        "value": "l"
+      },
+      {
+        "type": "span",
+        "value": "See the "
+      },
+      {
+        "type": "link",
+        "value": {
+          "href": "https://redis.io/data-integration/",
+          "name": "documentation"
+        }
+      },
+      {
+        "type": "span",
+        "value": " to learn more about Redis Data Integration."
+      },
+      {
+        "type": "spacer",
+        "value": "l"
+      },
+      {
+        "type": "internal-link",
+        "value": {
+          "href": "/integrate",
+          "name": "Start working with RDI"
+        }
+      }
+    ]
   }
 }
