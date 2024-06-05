@@ -1690,7 +1690,7 @@
       {
         "type": "internal-link",
         "value": {
-          "href": "/integrate",
+          "path": "/integrate",
           "name": "Start working with RDI"
         }
       }
