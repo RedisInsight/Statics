@@ -1670,11 +1670,8 @@
         "value": "See the "
       },
       {
-        "type": "link",
-        "value": {
-          "href": "https://redis.io/data-integration/",
-          "name": "documentation"
-        }
+        "type": "span",
+        "value": "documentation"
       },
       {
         "type": "span",
