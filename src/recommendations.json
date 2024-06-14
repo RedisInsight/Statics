@@ -1670,8 +1670,11 @@
         "value": "See the "
       },
       {
-        "type": "span",
-        "value": "documentation"
+        "type": "link",
+        "value": {
+          "href": "https://redis.io/docs/latest/integrate/redis-data-integration/ingest/quick-start-guide/",
+          "name": "documentation"
+        }
       },
       {
         "type": "span",
