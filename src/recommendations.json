@@ -1440,6 +1440,7 @@
   },
   "luaToFunctions": {
     "id": "luaToFunctions",
+    "deprecated": true,
     "title": "Consider using triggers and functions",
     "tutorialId": "tf-intro",
     "deprecated": true,
@@ -1502,6 +1503,7 @@
   },
   "functionsWithStreams": {
     "id": "functionsWithStreams",
+    "deprecated": true,
     "title": "Consider using triggers and functions to react in real-time to stream entries",
     "tutorialId": "tf-intro",
     "deprecated": true,
@@ -1580,6 +1582,7 @@
   },
   "functionsWithKeyspace": {
     "id": "functionsWithKeyspace",
+    "deprecated": true,
     "title": "Consider using triggers and functions to react in real-time to database changes",
     "tutorialId": "tf-intro",
     "deprecated": true,
