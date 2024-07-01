@@ -750,55 +750,24 @@
   "redisVersion": {
     "id": "redisVersion",
     "telemetryEvent": "updateDatabase",
-    "title":"Upgrade your Redis database to version 6 or above",
+    "title": "Upgrade your Redis database to version 7.4 or above",
     "redisStack": true,
     "content": [
       {
         "type": "paragraph",
-        "value": "Upgrade your database to version 6 or above to take advantage of the following:"
+        "value": "Upgrade to Redis 7.4 for enhanced security, better resource utilization, and increased stability for your applications."
       },
       {
-        "type": "list",
-        "value": [
-          [
-            {
-              "type": "link",
-              "value": {
-                "href": "https://redis.io/docs/latest/operate/oss_and_stack/management/security/acl/",
-                "name": "access control lists (ACLs)"
-              }
-            },
-            {
-              "type": "span",
-              "value": " that let you create users with permissions for specific actions"
-            }
-          ],
-          [
-            {
-              "type": "link",
-              "value": {
-                "href": "https://redis.io/docs/latest/develop/use/client-side-caching/",
-                "name": "client-side caching"
-              }
-            },
-            {
-              "type": "span",
-              "value": " for high-performance services"
-            }
-          ],
-          [
-            {
-              "type": "span",
-              "value": "SSL support"
-            }
-          ],
-          [
-            {
-              "type": "span",
-              "value": "optimized memory utilization through faster eviction of expired keys"
-            }
-          ]
-        ]
+        "type": "spacer",
+        "value": "l"
+      },
+      {
+        "type": "paragraph",
+        "value": "Redis 7.4 also introduces a slew of new features, including field-level expiration commands for hashes and the ability to start reading a stream from the last entry."
+      },
+      {
+        "type": "spacer",
+        "value": "l"
       },
       {
         "type": "span",
@@ -807,7 +776,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/cloud/",
+          "href": "https://redis.com/try-free/",
           "name": "Redis Cloud"
         }
       },
@@ -818,7 +787,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/docs/latest/develop/interact/search-and-query/",
+          "href": "https://redis.io/docs/stack/search/",
           "name": "query and search"
         }
       },
@@ -829,7 +798,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/docs/data-types/json/",
+          "href": "https://redis.io/docs/stack/json/",
           "name": "JSON"
         }
       },
@@ -840,7 +809,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/docs/data-types/probabilistic/bloom-filter/",
+          "href": "https://redis.io/docs/stack/bloom/",
           "name": "probabilistic data structures"
         }
       },
@@ -851,7 +820,7 @@
       {
         "type": "link",
         "value": {
-          "href": "https://redis.io/timeseries/",
+          "href": "https://redis.io/docs/stack/timeseries/",
           "name": "Time Series"
         }
       },
