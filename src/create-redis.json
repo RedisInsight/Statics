@@ -21,4 +21,14 @@
       }
     }
   }
-}
+},
+  "docker": {
+    "title": "Docker",
+    "description": "Run Redis Stack on Docker",
+    "links": {
+      "main": {
+        "altText": "Docker",
+        "url": "https://hub.docker.com/r/redis/redis-stack-server"
+      }
+    }
+  }
