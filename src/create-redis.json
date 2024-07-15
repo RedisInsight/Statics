@@ -20,5 +20,45 @@
         "color": ""
       }
     }
+  },
+  "docker": {
+    "title": "Docker",
+    "description": "Run Redis Stack on Docker",
+    "links": {
+      "main": {
+        "altText": "Docker",
+        "url": "https://hub.docker.com/r/redis/redis-stack-server"
+      }
+    }
+  },
+  "github": {
+    "title": "GitHub",
+    "description": "Provide feedback",
+    "links": {
+      "main": {
+        "altText": "GitHub",
+        "url": "https://github.com/RedisInsight/RedisInsight"
+      }
+    }
+  },
+  "redis_insight": {
+    "title": "Redis Insight",
+    "description": "Explore Redis Insight features and capabilities",
+    "links": {
+      "main": {
+        "altText": "Redis Insight",
+        "url": "https://redis.io/docs/latest/develop/connect/insight/?utm_source=redisinsight&utm_medium=vscode&utm_campaign=empty_database"
+      }
+    }
+  },
+  "cloud_vscode": {
+    "title": "Try Redis Cloud",
+    "description": "Your ultimate Redis starting point",
+    "links": {
+      "main": {
+        "altText": "Try Redis Cloud",
+        "url": "https://redis.io/docs/latest/develop/connect/insight/?utm_source=redisinsight&utm_medium=vscode&utm_campaign=empty_database"
+      }
+    }
   }
 }
