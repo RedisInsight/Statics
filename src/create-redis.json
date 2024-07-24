@@ -1,13 +1,9 @@
 {
   "cloud": {
     "title": "Try Redis Cloud: your ultimate Redis starting point",
-    "description": "Includes native support for JSON, Query and Search, and more",
+    "description": "Includes native support for JSON, Search and Query, and more",
     "links": {
       "main": {
-        "altText": "Try Redis Cloud.",
-        "url": "https://redis.com/try-free/?utm_source=redisinsight&utm_medium=main&utm_campaign=main"
-      },
-      "redisearch": {
         "altText": "Try Redis Cloud.",
         "url": "https://redis.com/try-free/?utm_source=redisinsight&utm_medium=main&utm_campaign=main"
       }
@@ -27,31 +23,41 @@
   },
   "docker": {
     "title": "Docker",
-    "description": "",
+    "description": "Run Redis Stack on Docker",
     "links": {
       "main": {
         "altText": "Docker",
-        "url": "https://redis.io/docs/install/install-stack/docker/?utm_source=redisinsight&utm_medium=main&utm_campaign=docker"
+        "url": "https://hub.docker.com/r/redis/redis-stack-server"
       }
     }
   },
-  "homebrew": {
-    "title": "Homebrew",
-    "description": "",
+  "github": {
+    "title": "GitHub",
+    "description": "Provide feedback",
     "links": {
       "main": {
-        "altText": "Homebrew",
-        "url": "https://redis.io/docs/install/install-stack/mac-os/?utm_source=redisinsight&utm_medium=main&utm_campaign=homebrew"
+        "altText": "GitHub",
+        "url": "https://github.com/RedisInsight/RedisInsight"
       }
     }
   },
-  "linux": {
-    "title": "Linux",
-    "description": "",
+  "redis_insight": {
+    "title": "Redis Insight",
+    "description": "Explore Redis Insight features and capabilities",
     "links": {
       "main": {
-        "altText": "Linux",
-        "url": "https://redis.io/docs/install/install-stack/linux/?utm_source=redisinsight&utm_medium=main&utm_campaign=linux"
+        "altText": "Redis Insight",
+        "url": "https://redis.io/docs/latest/develop/connect/insight/?utm_source=redisinsight&utm_medium=vscode&utm_campaign=empty_database"
+      }
+    }
+  },
+  "cloud_vscode": {
+    "title": "Try Redis Cloud",
+    "description": "Your ultimate Redis starting point",
+    "links": {
+      "main": {
+        "altText": "Try Redis Cloud",
+        "url": "https://redis.io/docs/latest/develop/connect/insight/?utm_source=redisinsight&utm_medium=vscode&utm_campaign=empty_database"
       }
     }
   }
