@@ -57,7 +57,7 @@
     "links": {
       "main": {
         "altText": "Try Redis Cloud",
-        "url": "https://redis.io/docs/latest/develop/connect/insight/?utm_source=redisinsight&utm_medium=vscode&utm_campaign=empty_database"
+        "url": "https://redis.com/try-free/?utm_source=redisinsight&utm_medium=vscode&utm_campaign=empty_database"
       }
     }
   }
