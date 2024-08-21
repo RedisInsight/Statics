@@ -51,6 +51,16 @@
       }
     }
   },
+  "github_vscode": {
+    "title": "GitHub",
+    "description": "Provide feedback",
+    "links": {
+      "main": {
+        "altText": "GitHub",
+        "url": "https://github.com/RedisInsight/Redis-for-VS-Code"
+      }
+    }
+  },
   "cloud_vscode": {
     "title": "Try Redis Cloud",
     "description": "Your ultimate Redis starting point",
