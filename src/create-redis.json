@@ -21,6 +21,10 @@
       }
     }
   },
+  "cloud_list_of_databases": {
+    "name": "Free Redis Cloud DB",
+    "host": "Set up in a few clicks"
+  },
   "docker": {
     "title": "Docker",
     "description": "Run Redis Stack on Docker",
