@@ -72,7 +72,6 @@
   },
   "bigHashes": {
     "id": "bigHashes",
-    "telemetryEvent": "shardHashes",
     "title": "Shard big hashes to small hashes",
     "redisStack": true,
     "tutorialId": "ds-hashes",
@@ -391,7 +390,7 @@
         "type": "link",
         "value": {
           "href": "https://redis.io/docs/latest/develop/interact/search-and-query/",
-          "name": "query and search capabilities"
+          "name": "Redis Query Engine"
         }
       },
       {
@@ -514,7 +513,6 @@
   },
   "bigSets": {
     "id": "bigSets",
-    "telemetryEvent": "optimizeExistenceChecks",
     "title": "Consider using probabilistic data structures such as Bloom Filter or HyperLogLog",
     "tutorialId": "ds-prob-intro",
     "redisStack": true,
@@ -659,7 +657,6 @@
   },
   "RTS": {
     "id": "RTS",
-    "telemetryEvent": "optimizeTimeSeries",
     "title":"Try using the Redis native time series data structure and querying capabilities",
     "redisStack": true,
     "tutorialId": "ds-ts-intro",
@@ -749,7 +746,6 @@
   },
   "redisVersion": {
     "id": "redisVersion",
-    "telemetryEvent": "updateDatabase",
     "title": "Upgrade your Redis database to version 7.4 or above",
     "redisStack": true,
     "content": [
@@ -782,13 +778,13 @@
       },
       {
         "type": "span",
-        "value": " that also provides support for Redis Stack "
+        "value": " that also provides support for the "
       },
       {
         "type": "link",
         "value": {
           "href": "https://redis.io/docs/stack/search/",
-          "name": "query and search"
+          "name": "Redis Query Engine"
         }
       },
       {
@@ -842,7 +838,7 @@
         "type": "link",
         "value": {
           "href": "https://redis.io/docs/latest/develop/interact/search-and-query/",
-          "name": "RediSearch"
+          "name": "The Redis Query Engine"
         }
       },
       {
@@ -935,7 +931,7 @@
         "type": "link",
         "value": {
           "href": "https://redis.io/docs/latest/develop/interact/search-and-query/",
-          "name": "query and search capabilities"
+          "name": "Redis Query Engine"
         }
       },
       {
@@ -1019,7 +1015,7 @@
         "type": "link",
         "value": {
           "href": "https://redis.io/docs/latest/develop/interact/search-and-query/",
-          "name": "query and search capabilities"
+          "name": "Redis Query Engine"
         }
       },
       {
@@ -1161,7 +1157,7 @@
               "type": "link",
               "value": {
                 "href": "https://redis.io/docs/latest/develop/interact/search-and-query/",
-                "name": "query and search capabilities"
+                "name": "Redis Query Engine"
               }
             }
           ]
@@ -1257,7 +1253,7 @@
         "type": "link",
         "value": {
           "href": "https://redis.io/docs/latest/develop/interact/search-and-query/",
-          "name": "query and search"
+          "name": "the Redis Query Engine"
         }
       },
       {
@@ -1329,7 +1325,7 @@
         "type": "link",
         "value": {
           "href": "https://redis.io/docs/latest/develop/interact/search-and-query/",
-          "name": "query and search"
+          "name": "Redis Query Engine"
         }
       },
       {
