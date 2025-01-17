@@ -778,13 +778,13 @@
       },
       {
         "type": "span",
-        "value": " that also provides support for Redis Stack "
+        "value": " that also provides support for the "
       },
       {
         "type": "link",
         "value": {
           "href": "https://redis.io/docs/stack/search/",
-          "name": "the Redis Query Engine"
+          "name": "Redis Query Engine"
         }
       },
       {
